@@ -5,7 +5,7 @@ Useful when you a serie of files with a specific name pattern, but you want to r
 
 ## Example
 You have a customer folder with images. Images of the customer follows a specific naming pattern:  
-`[customer ID]\_[sequential number]\_[year and month].[cr2|xmp|jpg]`
+`[customer ID]\_[sequential number]\_[year and month].[cr2|xmp|jpg]`  
 Then later you realize the customer ID or date is wrong, but you can't use any other batch rename, like the one built-in to Adobe Bridge.  
 With this program you can replace one constant, while the rest remains untouched.  
 
